@@ -22,7 +22,7 @@ cd WindowRPC
 Ensure you have Python installed, then install the required dependencies using pip:
 
 ```
-pip install time threading pygetwindow pypresence msvcrt json subprocess
+pip install pygetwindow pypresence
 ```
 
 ### Create a Discord Application
