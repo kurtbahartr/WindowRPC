@@ -29,7 +29,7 @@ pip install pygetwindow pypresence
 Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create a new application. Note the Application ID.
 
 ### Configure the Script
-Open discordrpc.py in a text editor, and replace the placeholder Application ID with your own.
+Open discordrpc.py in a text editor, and replace the placeholder Application ID (the value of the `client_id` variable) with your own.
 
 ### Run the Script
 Start the script using the command line:
